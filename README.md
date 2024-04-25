@@ -15,6 +15,7 @@ Fun fact about me: I love getting out of my comfort zone, solving problems, trav
 
 ### 📩 Let's chat:
 jbqabellera@gmail.com
-09765098062
+
 https://www.linkedin.com/in/bianca-abellera/
+
 Philippines
