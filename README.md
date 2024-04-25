@@ -1,7 +1,4 @@
-# Bianca Abellera
-
-
-## Data Analyst | Economist
+# Bianca Abellera | Data Analyst | Economist
 
 How amazing is it that numbers, text, and code can be transformed into something valuable for businesses, policymakers, and the innovation we enjoy today? 
 
