@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Providing data-driven insights and recommendations<br>💯 Trusted by clients (5-star rating and 100% Job Success Score in Upwork)<br>📚 Currently learning e-commerce tools, and automation<br>🎯 Goals: Be a reliable data analyst who solves problems</p>
+<p align="left">✨ Providing data-driven insights and recommendations<br>💯 Trusted by clients (5-star rating and 100% Job Success Score in Upwork)<br>📚 Currently learning e-commerce tools and automation<br>🎯 Goals: Be a reliable data analyst who solves problems</p>
 
 ###
 
