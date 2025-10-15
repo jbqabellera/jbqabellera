@@ -1,4 +1,4 @@
-<h1 align="left">⚡Experienced Data Analyst | Automation Specialist | Excel and Sheets and more</h1>
+<h1 align="left">⚡Experienced Data Analyst | Automation Specialist | Excel, Sheets CRM, and more</h1>
 
 ###
 
