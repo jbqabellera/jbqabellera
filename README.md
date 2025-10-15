@@ -19,6 +19,14 @@
 ###
 
 <h2 align="left">Sample Works</h2>
+
+<p align="left">Tableau Sales Dashboard</p>
+
 <img width="1799" height="1199" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/eca6c393-fb27-4a12-b3e1-e4484ee419e5" />
+
+<p align="left">Excel Dashboard</p>
+![Excel GIF](https://github.com/user-attachments/assets/3b4d9714-5c1f-4578-a600-cbccd67d8457)
+
+
 
 ###
