@@ -25,7 +25,21 @@
 <img width="1799" height="1199" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/eca6c393-fb27-4a12-b3e1-e4484ee419e5" />
 
 <p align="left">Excel Dashboard</p>
-![Excel GIF](https://github.com/user-attachments/assets/3b4d9714-5c1f-4578-a600-cbccd67d8457)
+
+<img width="1072" height="674" alt="Electricity Dashboard" src="https://github.com/user-attachments/assets/83e36e58-1b2c-4b4b-bbd4-3e97826d18d6" />
+
+<p align="left">Profit and Loss Summary</p>
+
+<img width="1920" height="1080" alt="Profit and Loss" src="https://github.com/user-attachments/assets/92749a6c-be67-4fe0-ad74-1faa90071dd3" />
+
+
+<h2 align="left">Advanced Formulas</h2>
+
+<p align="left">Use Search Button</p>
+
+<img width="960" height="422" alt="Excel Button 1" src="https://github.com/user-attachments/assets/c2a2c8ef-5251-48ae-a226-f9a21f97b868" />
+
+<img width="960" height="422" alt="Excel Button 2" src="https://github.com/user-attachments/assets/24c92302-969e-44a3-b0f4-80d3433805fe" />
 
 
 
