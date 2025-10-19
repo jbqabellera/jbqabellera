@@ -1,8 +1,8 @@
-<h1 align="left">⚡Experienced Data Analyst | Automation Specialist | Excel, Sheets CRM, and more</h1>
+<h1 align="left">⚡Experienced Data Analyst | Automation Specialist | Excel, Sheets, GoHighLevel and more</h1>
 
 ###
 
-<h2 align="left">About Me</h2>
+<h2 align="left">Hi, I'm Bianca!</h2>
 
 ###
 
@@ -27,6 +27,10 @@
 <p align="left">Excel Dashboard</p>
 
 <img width="1072" height="674" alt="Electricity Dashboard" src="https://github.com/user-attachments/assets/83e36e58-1b2c-4b4b-bbd4-3e97826d18d6" />
+
+<p align="left">Sales Dashboard with KPIs</p>
+
+<img width="1856" height="817" alt="image" src="https://github.com/user-attachments/assets/ce5c5c49-7a72-4bc6-b9bd-1f1587efdace" />
 
 <p align="left">Profit and Loss Summary</p>
 
