@@ -28,9 +28,13 @@
 
 <img width="1072" height="674" alt="Electricity Dashboard" src="https://github.com/user-attachments/assets/83e36e58-1b2c-4b4b-bbd4-3e97826d18d6" />
 
-<p align="left">Sales Dashboard with KPIs</p>
+<p align="left">Excel Sales Dashboard</p>
 
 <img width="1856" height="817" alt="image" src="https://github.com/user-attachments/assets/ce5c5c49-7a72-4bc6-b9bd-1f1587efdace" />
+
+[Download Excel Dashboard (Macro-Enabled)](https://drive.google.com/uc?export=download&id=1wNamM6j8fdh3dH8ejKD5koFeJMwM1ysV)
+
+
 
 <p align="left">Profit and Loss Summary</p>
 
